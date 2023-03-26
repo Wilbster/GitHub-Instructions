@@ -1,3 +1,23 @@
-site_name: My Docs
+site_name: Github Documentation
+nav:
+  - Home: "index.md"
+  - Issues: "issues.md"
+
+repo_url: https://github.com/Wilbster/GitHub-Instructions
+
+repo_name: Wilbster/GitHub-Instructions
+
+markdown_extensions:
+  - toc:
+      toc_depth: 3
+  - pymdownx.tasklist:
+      custom_checkbox: true
+
 theme:
   name: material
+  
+  features:
+  # - navigation.tabs
+  - navigation.sections
+  - navigation.top
+  - toc.integrate
