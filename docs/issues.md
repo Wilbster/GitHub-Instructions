@@ -28,7 +28,8 @@ If we would like to create a new Github issue, we can take the following steps:
 5. Click on the green **Submit New Issue** button to create a new issue.
     
     ![Navigating to issues](/assets/images/issues3.png)
-As mentioned earlier, you can add labels, milestones, and assign issues.
+
+    As mentioned earlier, you can add labels, milestones, and assign issues.
 
 ## Adding labels
 
