@@ -14,6 +14,7 @@ markdown_extensions:
       toc_depth: 3
   - pymdownx.tasklist:
       custom_checkbox: true
+  - attr_list
 
 theme:
   name: material

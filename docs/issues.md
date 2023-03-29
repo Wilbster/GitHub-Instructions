@@ -15,22 +15,22 @@ If we would like to create a new Github issue, we can take the following steps:
 
 1. Navigate to the main repository where you would like to create a new issue.
 2. Click on the issues tab in the repository menu.
-![Navigating to issues](/docs/assets/images/issues1.png)
+![Navigating to issues](/assets/images/issues1.png)
 
 3. Click on the green **New issue** button on the right-hand side.
-![Navigating to issues](/docs/assets/images/issues2.png)
+![Navigating to issues](/assets/images/issues2.png)
 
 4. Fill out the title and description fields of the issue. 
 - `title` : should convey a brief summary about what the issue is
 - `description` : should explain the the purpose of the issue and any details that might help resolve the issue.
 5. Click on the green **Submit New Issue** button to create a new issue.
-![Navigating to issues](/docs/assets/images/issues3.png)
+![Navigating to issues](/assets/images/issues3.png)
 As mentioned earlier, you can add labels, milestones, and assign issues.
 
 ## Adding labels
 
 You can add labels by clicking on the small cog icon on the right menu bar. You are able to use either a predefined label or create your own customized label so that it is easier for you to identify issues at a later date. 
-![Navigating to issues](/docs/assets/images/issues4.png)
+![Navigating to issues](/assets/images/issues4.png)
 
 Users can then use these labels to filter issues and find all issues that have a specific label.
 
@@ -40,14 +40,14 @@ For more information, please reference the [documentation](https://docs.github.c
 
 You can add milestones by clicking on the small cog icon on the right menu bar. A milestone lets you keep track of the progress through a date-based approach. It will show the progress of the task as the target date approaches.
 
-![Navigating to issues](/docs/assets/images/issues5.png)
+![Navigating to issues](/assets/images/issues5.png)
 For more information, please reference the [documentation](https://docs.github.com/en/issues/using-labels-and-milestones-to-track-work/about-milestones)
 
 ## Adding assignees
 
 You can add assignees to a task by clicking on the small cog icon on the right menu bar. An assignee can be specified so that users are able to track who is responsible for fixing a certain issue.
 
-![Navigating to issues](/docs/assets/images/issues6.png)
+![Navigating to issues](/assets/images/issues6.png)
 
 For more information, please reference the [documentation](https://docs.github.com/en/issues/tracking-your-work-with-issues/assigning-issues-and-pull-requests-to-other-github-users)
 
@@ -61,7 +61,7 @@ If we would like to comment on a Github issue, we can take the following steps:
 
 4. Click on the green **Comment** button to post your comment.
 
-![Navigating to issues](/docs/assets/images/issues7.png)
+![Navigating to issues](/assets/images/issues7.png)
 
 ## Closing an Issue
 
@@ -72,7 +72,7 @@ If we would like to close a Github issue, we can take the following steps:
 2. Optionally, you can leave a comment explaining why you are closing the issue.
 3. Click on the **Close issue** button with the purple check mark to close the issue.
 
-![Navigating to issues](/docs/assets/images/issues8.png)
+![Navigating to issues](/assets/images/issues8.png)
 ## Reopening an Issue
 
 If we would like to reopen a Github issue,
@@ -83,7 +83,7 @@ we can take the following steps:
 2. Optionally, you can leave a comment explaining why you are reopening the issue.
 3. Click on the **Reopen issue** button with the purple check mark to reopen the issue.
 
-![Navigating to issues](/docs/assets/images/issues9.png)
+![Navigating to issues](/assets/images/issues9.png)
 
 ## Conclusion
 

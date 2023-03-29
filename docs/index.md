@@ -2,14 +2,13 @@
 
 Hello there! This documentation will help your journey in understanding and learning how to use [**github**](https://github.com/) to create new projects and begin your journey as software developers using this essential technology.
 
-![Github](/docs/assets/images/github_logo.png)
+![Github](/assets/images/github-logo.png){: style="height:150px;width:250px"}
 
 The following content will be talked about within this documentation
 
 - Merging changes while working on a group project
 - Creating issues using github
 - Placeholder
-url 'pages/issues.md' > docs/about.md
 
 ## Intended Audience
 
@@ -30,8 +29,8 @@ These are the following things that are required of the audience of this documen
 
 The following are the sections of the documentation:
 
-- **[Merging changes](pages/#)**
-- **[Working with issues](pages/issues.md)**
+- **[Merging changes](task1/#)**
+- **[Working with issues](issues.md)**
 
 
 
