@@ -7,6 +7,7 @@ The following content will be talked about within this documentation
 - Merging changes while working on a group project
 - Creating issues using github
 - Placeholder
+url 'pages/issues.md' > docs/about.md
 
 ## Intended Audience
 
