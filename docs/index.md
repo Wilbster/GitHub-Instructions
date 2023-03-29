@@ -2,7 +2,7 @@
 
 Hello there! This documentation will help your journey in understanding and learning how to use [**github**](https://github.com/) to create new projects and begin your journey as software developers using this essential technology.
 
-![Github](/site/assets/images/github_logo.png)
+![Github](/docs/assets/images/github_logo.png)
 
 The following content will be talked about within this documentation
 

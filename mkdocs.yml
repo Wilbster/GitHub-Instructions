@@ -17,9 +17,11 @@ markdown_extensions:
 
 theme:
   name: material
+  logo: assets/images/github.png
   
   features:
-  # - navigation.tabs
-  - navigation.sections
-  - navigation.top
-  - toc.integrate
+    # - navigation.tabs
+    - navigation.sections
+    - navigation.top
+    - toc.integrate
+copyright: Copyright &copy; 2023 Justin & Wilber
