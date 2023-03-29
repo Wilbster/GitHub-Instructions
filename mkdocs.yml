@@ -25,4 +25,23 @@ theme:
     - navigation.sections
     - navigation.top
     - toc.integrate
+  palette:
+
+    # Light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: deep purple
+      accent: deep purple
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to dark mode
+
+    # Dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: yellow
+      accent: yellow
+      toggle:
+        icon: material/weather-night
+        name: Switch to light mode
 copyright: Copyright &copy; 2023 Justin & Wilber
