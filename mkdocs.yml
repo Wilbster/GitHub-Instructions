@@ -15,12 +15,34 @@ markdown_extensions:
       toc_depth: 3
   - pymdownx.tasklist:
       custom_checkbox: true
+  - attr_list
 
 theme:
   name: material
+  logo: assets/images/github.png
   
   features:
-  # - navigation.tabs
-  - navigation.sections
-  - navigation.top
-  - toc.integrate
+    # - navigation.tabs
+    - navigation.sections
+    - navigation.top
+    - toc.integrate
+  palette:
+
+    # Light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: blue
+      accent: blue
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to dark mode
+
+    # Dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: deep purple
+      accent: deep purple
+      toggle:
+        icon: material/weather-night
+        name: Switch to light mode
+copyright: Copyright &copy; 2023 Justin & Wilber
