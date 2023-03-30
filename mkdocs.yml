@@ -2,6 +2,7 @@ site_name: Github Documentation
 nav:
   - Home: "index.md"
   - Issues: "issues.md"
+  - Merge Conflicts: "MergeConflicts.md"
   - Glossary: "glossary.md"
   - Troubleshooting: "troubleshooting.md"
 
