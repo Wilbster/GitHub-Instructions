@@ -3,7 +3,7 @@ nav:
   - Home: "index.md"
   - Issues: "issues.md"
   - Merge Conflicts: "MergeConflicts.md"
-  - Adding and Renaming: "AddingRenaming.md"
+  - File Management: "AddingRenaming.md"
   - Glossary: "glossary.md"
   - Troubleshooting: "troubleshooting.md"
 
