@@ -25,7 +25,7 @@ You require to have the following:
 - Ability to absorb information and follow instructions
 - [**Visual Studio Code**](https://code.visualstudio.com/download)
 
-> The screenshots provided will be using the GitHub website and the terminal and can be replicated using your own account and different IDEs.
+> The screenshots provided will be using the GitHub website and the code blocks can be replicated using your own terminal on different [IDEs](glossary.md).
 
 ## Overview of Documentation
 
@@ -37,4 +37,4 @@ The following are the sections of the documentation:
 
 
 
-We would like to express our appreciation for utilizing our GitHub User Documentation Guide 
+We would like to express our appreciation for utilizing our GitHub User Documentation Guide. 
