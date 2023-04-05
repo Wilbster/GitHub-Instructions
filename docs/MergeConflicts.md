@@ -30,7 +30,7 @@ error. The merge conflict must be resolved with a new commit before the merge ca
 3.  Use the `$ git status` command to see the files affected by the merge conflict. In this example, the file 
 *conflicted.md* has a merge conflict.
 
-    ```
+     ```
      $ git status
      > # On branch branch-b
      > # You have unmerged paths.
@@ -42,7 +42,7 @@ error. The merge conflict must be resolved with a new commit before the merge ca
      > # both modified:      conflicted.md
      > #
      > no changes added to commit (use "git add" and/or "git commit -a")
-    ```
+     ```
    
 4. Navigate to the file with merge conflicts with a text editor like Visual Studio Code.
 5. Search the file for the conflict marker `<<<<<<<`. The changes from the base branch are shown right after the line
@@ -74,7 +74,7 @@ instead:
 
 8. Commit your changes.
 
-     ```angular2html
+     ```
      $ git commit -m "commit message" 
      ```
 
