@@ -1,6 +1,6 @@
 # Welcome to the GitHub Tutorial
 
-Hello there! This documentation will help your journey in understanding and learning how to use [**github**](https://github.com/) to create new projects and begin your journey as software developers using this essential technology.
+Hello there! This documentation will help your journey in understanding and learning how to use [**Github**](https://github.com/) to create new projects and begin your journey as software developers using this essential technology.
 
 ![Github](/assets/images/github-logo.png){: style="height:150px;width:250px"}
 
@@ -13,12 +13,14 @@ The following content will be talked about within this documentation
 ## Intended Audience
 
 This documentation is targeted towards the following audience:
+
 - Beginner students who are starting their computer science journey
 - Developers who have not used GitHub before
 
 ## Prerequisites
 
-These are the following things that are required of the audience of this documentation:
+You require to have the following:
+
 - A working [**Github**](https://github.com/login) account
 - Ability to absorb information and follow instructions
 - [**Visual Studio Code**](https://code.visualstudio.com/download)
