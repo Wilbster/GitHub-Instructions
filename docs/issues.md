@@ -35,7 +35,7 @@ If we would like to create a new Github issue, we can take the following steps:
 
 You can add labels by clicking on the small cog icon on the right menu bar. You are able to use either a predefined label or create your own customized label so that it is easier for you to identify issues at a later date. 
     
-    ![Navigating to issues](/assets/images/issues4.png)
+![Navigating to issues](/assets/images/issues4.png)
 
 Users can then use these labels to filter issues and find all issues that have a specific label.
 
