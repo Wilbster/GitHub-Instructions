@@ -1,3 +1,11 @@
+## Overview
+
+**Adding**, **renaming**, and **moving** files are all processes that must be synchronized 
+between multiple clones of the same repository. 
+
+Changes are [**staged**](glossary.md) and [**committed**](glossary.md) before being pushed 
+to a central repository stored online.
+
 ## Adding a file
 
 The command line can be used to add a file to a repository. 
