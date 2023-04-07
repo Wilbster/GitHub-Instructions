@@ -5,6 +5,7 @@ In this section we will be going over how to utilize **Github issues** to create
 **Github issue** is a tool where users can track and manage tasks associated with a project. It is commonly utilized to report bugs, ask for features, or suggest modifications to a project.
 
 The issue is created by any user and it can contain a title, description, and other information including labels, assignees, and milestones
+
 - `labels` : used to categorize issues
 - `assignees` : people responsible for resolving the issue
 - `milestones` : used to group similar issues together and track the progress towards a larger goal
